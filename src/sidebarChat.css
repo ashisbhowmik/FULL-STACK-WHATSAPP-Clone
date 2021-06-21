@@ -1,0 +1,27 @@
+.sidebarChat {
+  display: flex;
+  padding: 8px;
+  cursor: pointer;
+  border-bottom: 2px solid #f6f6f6;
+  margin-left: 20px;
+}
+.sidebarChat:hover {
+  background-color: #ebebeb;
+}
+.sidebarChat > .MuiSvgIcon-root {
+  font-size: 12px;
+}
+
+.sidebarChat__info {
+  margin-left: 22px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.sidebarChat__info h2 {
+  font-size: 15px;
+  margin-bottom: 1px;
+}
