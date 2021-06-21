@@ -1,4 +1,4 @@
-Tech For This clone-->
+Technology thats are used For This clone-->💯💯
 
 1. React Js
 2. Google Firebase Authontication
@@ -9,6 +9,9 @@ Tech For This clone-->
 7. Firebase Database
 8. Firebase Hoasting
 9. Node js
+10. HTML( mainly JSX)
+11. CSS
+12. Javascript
 
 In this clone, you have to first login with your gmail Id or any google account that should have to linked with Google, 
 Then you can also make your own group and also can share the link or the website link with your friend to start a conversation by sending message
